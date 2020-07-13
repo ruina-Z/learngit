@@ -5,4 +5,5 @@ git tracks changes.
 git files.
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
+git checkout -b dev.
 
