@@ -1,3 +1,4 @@
+git sleep
 checkout
 Git stash.
 git is a distributed version control system.
